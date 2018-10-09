@@ -1,0 +1,17 @@
+commit db0a53b02f0dcca968f5903306fd7761e2a5533c
+Author: Mareike <mareike.gutensohn@umu.se>
+Date:   Tue Oct 9 14:29:26 2018 +0200
+
+    some modification
+
+commit fc4fa8b3a2436a620bd8b690c7427ff0d68b5462
+Author: Mareike <mareike.gutensohn@umu.se>
+Date:   Tue Oct 9 14:19:31 2018 +0200
+
+    honest answer
+
+commit e530385d55d749de89b49b6c3da81f35983f09ca
+Author: Mareike <mareike.gutensohn@umu.se>
+Date:   Tue Oct 9 13:59:34 2018 +0200
+
+    Create the file mars.txt
